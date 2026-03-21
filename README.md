@@ -1,5 +1,3 @@
-<img width="1880" height="1537" alt="Blank diagram (6)" src="https://github.com/user-attachments/assets/b0f93412-b85a-41bf-8446-cd80debd42d7" /># State-Design-Pattern
-
 Problem:
 A vending machine needs to manage different states, including "Idle", "ItemSelected", "Dispensing", and "OutOfOrder". Each state has specific rules and restrictions regarding allowed operations, and the vending machine has associated attributes like item inventory and balance.
 
